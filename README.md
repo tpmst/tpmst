@@ -8,22 +8,6 @@ A lone programmer working on a tool
 
 ###
 
-<p align="left">frameworks</p>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
-</div>
-
-###
-
 <p align="left">cloud</p>
 
 ###
